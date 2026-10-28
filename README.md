@@ -64,7 +64,3 @@ The model was tuned using:
 ## Disclaimer
 The model provides an analytical estimate of employee performance ratings. Predictions should not be used as the sole basis for employee evaluation or employment decisions.
 
-## Author
-Saniya Santosh Lokhande
-
-Data Science | Data Analytics | Machine Learning
